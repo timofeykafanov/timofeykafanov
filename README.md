@@ -8,3 +8,13 @@
 * tim.kafanov@gmail.com
 * [LinkedIn](https://www.linkedin.com/in/timofey-kafanov-4b4710201/)
 * [Telegram](https://t.me/tim_kafanov)
+
+------
+
+### My skill set 💻
+
+* JavaScript, React.js
+* Node.js, Express
+* HTML, CSS
+* Webpack
+* Figma

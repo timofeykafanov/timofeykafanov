@@ -6,7 +6,7 @@
 
 📫 How to reach me:
 * tim.kafanov@gmail.com
-* [LinkedIn](https://www.linkedin.com/in/timofey-kafanov-4b4710201/)
+* [LinkedIn](https://www.linkedin.com/in/tim-kafanov/)
 * [Telegram](https://t.me/tim_kafanov)
 
 ------

@@ -18,3 +18,4 @@
 * HTML, CSS
 * Webpack
 * Figma
+* REST API

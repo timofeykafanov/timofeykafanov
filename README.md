@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I am currently studying at Practicum by Yandex and working on a graduation project 
+🔭 I completed a course at Practicum by Yandex
 
 👯 I am looking for a job as a Frontend developer 
 

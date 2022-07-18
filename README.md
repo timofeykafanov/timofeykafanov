@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Tim
+### Hi there 👋
 
 🔭 I completed a course at Practicum by Yandex
 

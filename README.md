@@ -14,7 +14,7 @@
 ### My skill set 💻
 
 * JavaScript, React.js
-* Node.js, Express
+* Node.js, Express.js
 * HTML, CSS
 * Webpack
 * Figma

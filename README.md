@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋
 
 🔭 I completed a web-development course at Practicum by Yandex
 

@@ -11,7 +11,7 @@ I am a passionate and detail-oriented Software Developer with experience in desi
 
 ### My skill set 💻
 
-* JavaScript, React.js
+* C, JavaScript, React.js
 * Node.js, Express.js
 * HTML, CSS
 * REST API
